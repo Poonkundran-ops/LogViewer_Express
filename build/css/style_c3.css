@@ -1,0 +1,52 @@
+.c3-xgrid-line.max_grid line {
+    stroke: #ff0000;
+}
+
+.c3-xgrid-line.max_grid text {
+    fill: #ff0000;
+}
+
+.c3-xgrid-line.min_grid line {
+    stroke: #0000ff;
+}
+
+.c3-xgrid-line.min_grid text {
+    fill: #0000ff;
+}
+
+.c3-region.regionY {
+    fill: #ff0000;
+}
+
+.c3-region.regionX_working {
+    fill: #2ca9e1;
+}
+
+.c3-region.regionX_working_out {
+    fill: #cc3366;
+}
+
+.c3-axis-y text {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.c3-axis-y2 text {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.c3-axis-x text {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.c3-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.c3-gauge-value {
+    font-size: 18px !important;
+    font-weight: bold;
+}

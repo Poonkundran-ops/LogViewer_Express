@@ -1,0 +1,236 @@
+/* --- color_*l --- */
+
+.color_cocorooffice {
+    background-color: #008EA6;
+    color: white;
+    border-color: #008EA6;
+}
+
+.color_cocorooffice_white {
+    background-color:white;
+    color: 008EA6;
+    border-color: white;
+}
+
+.color_cocorooffice_blueblack {
+    background-color: #303e52;
+    color: white;
+    border-color: #303e52;
+}
+
+.color_text {
+    color: #666666;
+}
+
+.color_moegiiro {
+    background-color: #006e54;
+    color: white;
+    border-color: #006e54;
+}
+
+.color_copy {
+    background-color: #74C916;
+    color: white;
+    border-color: #74C916;
+}
+
+.color_cpoeu {
+    background-color: #D12549;
+    color: white;
+    border-color: #D12549;
+}
+
+.color_cpous {
+    background-color: #0094CB;
+    color: white;
+    border-color: #0094CB;
+}
+
+.color_onedrive {
+    background-color: #0849b5;
+    color: white;
+    border-color: #0849b5;
+}
+
+.color_box {
+    background-color: #22a7f0;
+    color: white;
+    border-color: #22a7f0;
+}
+
+.color_email {
+    background-color: #008E74;
+    color: white;
+    border-color: #008E74;
+}
+
+.color_asamidori {
+    background-color: #9BCF97;
+    color: black;
+    border-color: black;
+}
+
+.color_byakuroku {
+    background-color: #d6e9ca;
+    color: black;
+    border-color: black;
+}
+
+.color_urayanagi {
+    background-color: #C1D8AC;
+    color: black;
+    border-color: black;
+}
+
+.color_usuao {
+    background-color: #A0CEA8;
+    color: black;
+    border-color: black;
+}
+
+.color_hisuiiro {
+    background-color: #38B48B;
+    color: white;
+    border-color: #38B48B;
+}
+
+.color_ruriiro {
+    background-color: #1E50A2;
+    color: white;
+    border-color: #1E50A2;
+}
+
+.color_kakiiro {
+    background-color: #ED6D3D;
+    color: white;
+    border-color: #ED6D3D;
+}
+
+.color_nanohanairo {
+    background-color: #FFEC47;
+    color: black;
+    border-color: #FFEC47;
+}
+
+.color_sangosyuiro {
+    background-color: #EE836F;
+    color: white;
+    border-color: #EE836F;
+}
+
+.color_kuzyakumidori {
+    background-color: #008E74;
+    color: white;
+    border-color: #008E74;
+}
+
+.color_kikyouiro {
+    background-color: #624498;
+    color: white;
+    border-color: #624498;
+}
+
+.color_shinonomeiro {
+    background-color: #f19072;
+    color: white;
+    border-color: #f19072;
+}
+
+.color_kokikuchinashi {
+    background-color: #eb9b6f;
+    color: white;
+    border-color: #eb9b6f;
+}
+
+.color_benishi {
+    background-color: #e83929;
+    color: white;
+    border-color: #eb9b6f;
+}
+
+.color_entairo {
+    background-color: #ec6d51;
+    color: white;
+    border-color: #eb9b6f;
+}
+
+.color_murasakisuisyou {
+    background-color: #e7e7eb;
+    color: white;
+    border-color: #eb9b6f;
+}
+
+.color_aijiro {
+    background-color: #ebf6f7;
+    color: white;
+    border-color: #eb9b6f;
+}
+
+.color_kakiiro {
+    background-color: #ed6d3d;
+    color: white;
+    border-color: #eb9b6f;
+}
+
+.color_background_gray {
+    background-color: #f2f3f4;
+    color: darkgray;
+    border-color: #bcc1c7;
+}
+
+.color_background_white {
+    background-color: white;
+    color: black;
+}
+
+.color_background_yellow {
+    background-color: #ffd433;
+    color: black;
+}
+
+.color_button_gradient {
+    background: linear-gradient(#1d8ecc, #2a62b9);
+    color: white;
+}
+
+
+/* --- icontype_xxxx style --- */
+
+
+/*     NOTE: this array should be sychronize css data */
+
+.icontype_unknown {
+    background-image: url('../images/fileicon/icon_List_UNKNOWN.png');
+}
+
+.icontype_folder {
+    background-image: url('../images/fileicon/ic_list_folder_blue.png');
+}
+
+.icontype_png {
+    background-image: url('../images/fileicon/icon_List_PNG.png');
+}
+
+.icontype_pdf {
+    background-image: url('../images/fileicon/icon_List_PDF.png');
+}
+
+.icontype_doc {
+    background-image: url('../images/fileicon/icon_List_DOC.png');
+}
+
+.icontype_docx {
+    background-image: url('../images/fileicon/icon_List_DOCX.png');
+}
+
+.icontype_jpg {
+    background-image: url('../images/fileicon/icon_List_JPG.png');
+}
+
+.icontype_jpeg {
+    background-image: url('../images/fileicon/icon_List_JPEG.png');
+}
+
+.icontype_pptx {
+    background-image: url('../images/fileicon/icon_List_PPTX.png');
+}
